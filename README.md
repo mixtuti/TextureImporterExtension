@@ -6,8 +6,8 @@ When importing sprites in Unity, Texture Type is set to "Default".<br>
 ![ダミー](Image/TexterType.png)<br>
 
 Personally, I use "Sprite (2D and UI)" more often, <br>
-so **it would be troublesome if "Default" was the default!**<br>
-I created a not-so-useful editor extension based solely on this idea.
+so I thought, **It's troublesome if "Default" is the default!** <br>
+This is a not-so-useful editor extension that I created with that in mind.
 <hr>
 
 ## How to use
